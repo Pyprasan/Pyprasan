@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://github.com/Pyprasan/Pyprasan/blob/main/AvatarMaker.png"/>
 
 ### I'm [Michael Prasan][homepage]
 
