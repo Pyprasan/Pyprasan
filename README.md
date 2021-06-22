@@ -21,7 +21,7 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png">
 </p>
 
-Active projects from my [Trello Board][trello-board]
+<Active projects from my [Trello Board][trello-board]>
 
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
