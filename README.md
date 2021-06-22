@@ -23,7 +23,7 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
 
 <!Active projects from my [Trello Board][trello-board]>
 
-[<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
+[ !<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyprasan&layout=compact)][github]
 
