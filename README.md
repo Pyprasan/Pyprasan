@@ -16,7 +16,7 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
 ### Stuff I'm really good at
 
 <p>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png">
 </p>
