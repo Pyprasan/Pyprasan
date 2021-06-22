@@ -25,13 +25,13 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyprasan&layout=compact)][github]
 
 [homepage]: https://daniakash.com
 [twitter]: https://twitter.com/dani_akash_
 [twitch]: https://www.twitch.tv/dani_akash_
 [rn-toolkit]: https://github.com/react-native-toolkit
 [reddit]: https://www.reddit.com/user/dani_akash_
-[github]: https://github.com/daniakash
+[github]: https://github.com/Pyprasan
 [trello-board]: https://trello.com/b/1zB34Jab/whats-dani-upto
 [pickyourtrail]: https://pickyourtrail.com
