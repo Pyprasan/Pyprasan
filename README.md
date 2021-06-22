@@ -27,11 +27,11 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyprasan&layout=compact)][github]
 
-[homepage]: https://daniakash.com
-[twitter]: https://twitter.com/dani_akash_
-[twitch]: https://www.twitch.tv/dani_akash_
+[homepage]: https://
+[twitter]: https://twitter.com/PrasanMichael
+[twitch]: https://
 [rn-toolkit]: https://github.com/react-native-toolkit
-[reddit]: https://www.reddit.com/user/dani_akash_
+[reddit]: https://
 [github]: https://github.com/Pyprasan
-[trello-board]: https://trello.com/b/1zB34Jab/whats-dani-upto
-[pickyourtrail]: https://pickyourtrail.com
+[trello-board]: https://
+[pickyourtrail]: https://
