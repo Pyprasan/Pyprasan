@@ -8,9 +8,9 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
 
 ### I'm Currently
 
-- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
+- 📱 Building  Power BI Apps for Business Insights with Data Intelligence
 - 📚 Mentoring budding programmers
-- ⚛️ Building open source [react native components][rn-toolkit]
+- 📖 Developed Data Science project for Defect Reduction in Manufacturing Industry
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 
 ### Stuff I'm really good at
