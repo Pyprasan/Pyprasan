@@ -25,7 +25,7 @@ A BI developer and Data Scientist from Chennai. I love building applications & p
 
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyprasan&layout=compact)][github]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyprasan &layout=compact)][github]
 
 [homepage]: https://daniakash.com
 [twitter]: https://twitter.com/dani_akash_
