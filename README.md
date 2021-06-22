@@ -4,7 +4,7 @@
 
 A BI developer and Data Scientist from Chennai. I love building applications & predicting a Solution for any problems or issues given. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
+[![Twitter Follow](https://img.shields.io/twitter/follow/PrasanMichael?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
 
 ### I'm Currently
 
